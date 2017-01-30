@@ -20,7 +20,6 @@ public class Solution
     {
         public void run()
         {
-
         }
     }
 
@@ -29,7 +28,6 @@ public class Solution
         @Override
         public void fly()
         {
-
         }
     }
 }
