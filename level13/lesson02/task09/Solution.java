@@ -19,6 +19,7 @@ public class Solution
     }
     interface Runable extends Movable
     {
+        //@Override
         Double speed(Runable runable);
     }
 }
