@@ -41,7 +41,7 @@ public class Solution
         {
             this.id = id;
             this.name = name;
-            return this; // возвращаем ссылку на объект User типа DBObject
+            return this; // возвращаем ссылку на текущий объект User типа DBObject
         }
     }
 
